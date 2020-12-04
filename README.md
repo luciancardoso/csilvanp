@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Cauã Silva</h1>
 <h3>A Developer from Belém, Pará <img src="https://www.flaticon.com/svg/static/icons/svg/3022/3022546.svg" width="20" align="center"/> </h3>
+<h4>Personal site: http://cauasilva.me (still working on it...)<h4>
 
 #### 💻 Stack I Work With
 
