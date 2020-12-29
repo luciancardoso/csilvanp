@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&show_icons=true&theme=gotham"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csilvanp&theme=gotham&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&show_icons=true&theme=gotham" heigth=200px/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csilvanp&theme=gotham&layout=compact" heigth=200px/>
 </p>
